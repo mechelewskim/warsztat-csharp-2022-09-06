@@ -1,9 +1,11 @@
 
-# Wprowadzenie do C#
+# Wprowadzenie do C# (06.09.2022)
 
 ![logo-tydzień-programisty](./logo.png)
 
 Dziękuję za udział w szkoleniu. W tym repozytorium znajdziesz wszystkie materiały wykorzystane podczas prezentacji.
+
+Szkolenie prowadzone w ramach [Tygodnia Programisty](https://tydzienprogramisty.pl) organizowane przez Fundację [CODE:ME](https://codeme.pl).
 
 Najważniejsze adresy:
 - https://dotnet.microsoft.com
@@ -35,5 +37,3 @@ Roadmapy rozwoju:
 
 Certyfikacja:
 - https://docs.microsoft.com/en-us/certifications
-
-Szkolenie prowadzone w ramach [Tygodnia Programisty](https://tydzienprogramisty.pl) organizowane przez Fundację [CODE:ME](https://codeme.pl) .
